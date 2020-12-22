@@ -2,7 +2,7 @@
 
 ### GYAN —
 
-Jira Core is a project and task management solution that every business person across an organization can use to plan, track, and report on work. That means everyone using the same system.
+Jira is a proprietary issue tracking product developed by Atlassian that allows bug tracking and agile project management.
 
 https://confluence.atlassian.com/adminjiraserver/installing-jira-applications-on-linux-938846841.html
 
